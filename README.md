@@ -33,7 +33,7 @@
 
 <br>
 
-> Status do Projeto: Em Desenvolvimento
+> Status do Projeto: Concluido. 
 > <br>
 
 ## Aprendizagem por Projetos Integrados <a id="api"></a>
